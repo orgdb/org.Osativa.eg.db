@@ -2,8 +2,8 @@ Package: org.Osativa.eg.db
 Title: Genome wide annotation for Oryza sativa
 Description: Genome wide annotation for Oryza sativa, primarily based on mapping using Entrez Gene identifiers.
 Version: 0.1
-Author: Sangram Keshari Sahu <sangram@bionivid.com>
-Maintainer: Sangram Keshari Sahu <sangram@bionivid.com>
+Author: Sangram Keshari Sahu <sangramsahu15@gmail.com>
+Maintainer: Sangram Keshari Sahu <sangramsahu15@gmail.com>
 Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.46.1)
 Suggests: DBI, annotate, RUnit
 Imports: methods, AnnotationDbi
