@@ -1,0 +1,16 @@
+import(methods)
+import(AnnotationDbi)
+
+### Only put what is statically exported here. All the AnnObj instances
+### created at load time are dynamically exported (refer to R/zzz.R for
+### the details).
+export(
+    org.Osativa.eg,
+    org.Osativa.eg_dbconn,
+    org.Osativa.eg_dbfile,
+    org.Osativa.eg_dbschema,
+    org.Osativa.eg_dbInfo,
+
+    org.Osativa.egORGANISM
+)
+
